@@ -1,0 +1,129 @@
+  
+  @import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+  
+    /* this is the font being used */
+    
+    
+     ul {
+         list-style-type: none;
+         margin: 0px;
+         padding: 10px;
+         background-color: #FFFFFF;
+         
+        }   /* what does the red letters mean? Im guessing I should take it out */
+
+     li {
+         color: #000000;
+         display: inline;
+         
+        }
+       
+     li a {
+           color: #000000;
+         
+          }
+          
+          
+    container {
+               list-style-type: none;
+               margin: 0;
+               padding: 5;
+               overflow: hidden;
+              }  
+         
+    .content {
+              display: flex;
+              text-align: justify;
+             }
+          
+          /*worked on div*/
+          
+          
+        #one {  
+              display: flex;
+              flex-direction:column;
+              text-align: justify;
+              align-items:center;
+             }
+             
+        #one img {
+                  width: 100%;
+                  max-width: 400px;
+                 }
+        
+        #two { 
+              display: flex;
+              flex-direction:column;
+              text-align: justify;
+              align-items:center;
+              }
+              
+              /*center image*/
+             
+        #two img {
+                  width: 100%;
+                  max-width:400px;
+                 }
+        
+        #tres {
+              display: flex;
+              flex-direction:column;
+              text-align: justify;
+              align-items:center;
+              }
+             
+        #tres img{
+                  width: 100%;
+                  max-width:400px;
+            
+                 }
+          
+        #four {  
+              display: flex;
+              flex-direction:column;
+              text-align: justify;
+              align-items:center;
+              }
+              
+        #four img{
+                  width: 100%;
+                  max-width:400px;
+                 }
+              
+              
+              
+    h1 {
+         font-size:50px;
+         font-family: 'Gloria Hallelujah', cursive;
+         text-align:center;
+         float: right;
+        }   
+         
+  
+     p {
+         font-family:'Gloria Hallelujah', cursive;
+         font-size:20px;
+         
+        }
+  
+  
+     body {
+          background-color:#B8CDEF;
+          font-family: 'Gloria Hallelujah', cursive;
+         }
+        
+      
+    h2 {
+        text-align:center;
+        font-family:'Gloria Hallelujah', cursive;
+       }
+     
+    
+     
+      /* this closes the page*/
+       
+       
+       
+       
+      
+    
